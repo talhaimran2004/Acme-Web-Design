@@ -62,7 +62,7 @@ header .highlight, header .current a{
 #showcase{
     min-height:400px;
     background-color: black;
-    background: url("./images/bg-image.jpg") no-repeat 0 -1100px;
+    background: url("./bg-image.jpg") no-repeat 0 -1100px;
     color: rgb(255, 255, 255);
     text-align: center;
 }
@@ -221,7 +221,7 @@ footer p{
     }
 
     #showcase{
-        background: url("./images/bg-image.jpg") no-repeat -300px -1300px;
+        background: url("./bg-image.jpg") no-repeat -300px -1300px;
     }
 
     
